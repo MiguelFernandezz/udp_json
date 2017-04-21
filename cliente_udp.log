@@ -1,0 +1,143 @@
+INFO:root:hola
+INFO:root:conectando...
+INFO:root:conectando...
+INFO:root:conectando...
+INFO:root:conectado
+ERROR:root:name 'loggin' is not defined
+Traceback (most recent call last):
+  File "client.py", line 61, in <module>
+    loggin.info('enviando trama');
+NameError: name 'loggin' is not defined
+INFO:root:conectando...
+INFO:root:conectado
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:esperando por datos
+INFO:root:conectando...
+INFO:root:conectado
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:datos recibidos del cliente: 127.0.0.1:57509
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:Bytes totales: 10001
+INFO:root:Cantidad de tramas: 11
+INFO:root:tiempo: 0.0005931854248046875 s
+INFO:root:Velocidad de transmision: 134878.56689389067 kbps
+INFO:root:Reset, limpiando estadisticas
+INFO:root:conectando...
+INFO:root:conectado
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:datos recibidos del cliente: 127.0.0.1:45400
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:Bytes totales: 10001
+INFO:root:Cantidad de tramas: 11
+INFO:root:tiempo: 0.0009703636169433594 s
+INFO:root:Velocidad de transmision: 82451.5661995086 kbps
+INFO:root:Reset, limpiando estadisticas
+INFO:root:conectando...
+INFO:root:conectado
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:datos recibidos del cliente: 127.0.0.1:54795
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:Bytes totales: 10001
+INFO:root:Cantidad de tramas: 11
+INFO:root:tiempo: 0.00044798851013183594 s
+INFO:root:Velocidad de transmision: 178593.86611601917 kbps
+INFO:root:Reset, limpiando estadisticas
+INFO:root:conectando...
+INFO:root:conectado
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:datos recibidos del cliente: 127.0.0.1:47398
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:Bytes totales: 10001
+INFO:root:Cantidad de tramas: 11
+INFO:root:tiempo: 0.0008976459503173828 s
+INFO:root:Velocidad de transmision: 89130.9095436919 kbps
+INFO:root:Reset, limpiando estadisticas
+INFO:root:conectando...
+INFO:root:conectado
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:conectando...
+INFO:root:conectado
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:conectando...
+INFO:root:conectado
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:conectando...
+INFO:root:conectado
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama
+INFO:root:enviando trama

@@ -1,0 +1,25 @@
+INFO:root:esperando por datos
+INFO:root:datos recibidos del cliente: 127.0.0.1:39278
+INFO:root:Bytes totales: 10001
+INFO:root:Cantidad de tramas: 11
+INFO:root:tiempo: 0.0006732940673828125 s
+INFO:root:Velocidad de transmision: 118830.69207932011 kbps
+INFO:root:Reset, limpiando estadisticas
+INFO:root:datos recibidos del cliente: 127.0.0.1:51650
+INFO:root:Bytes totales: 10001
+INFO:root:Cantidad de tramas: 11
+INFO:root:tiempo: 0.0006146430969238281 s
+INFO:root:Velocidad de transmision: 130169.85043910008 kbps
+INFO:root:Reset, limpiando estadisticas
+INFO:root:datos recibidos del cliente: 127.0.0.1:52382
+INFO:root:Bytes totales: 10001
+INFO:root:Cantidad de tramas: 11
+INFO:root:tiempo: 0.0008816719055175781 s
+INFO:root:Velocidad de transmision: 90745.77458950786 kbps
+INFO:root:Reset, limpiando estadisticas
+INFO:root:datos recibidos del cliente: 127.0.0.1:43997
+INFO:root:Bytes totales: 10001
+INFO:root:Cantidad de tramas: 11
+INFO:root:tiempo: 0.0006594657897949219 s
+INFO:root:Velocidad de transmision: 121322.4419493854 kbps
+INFO:root:Reset, limpiando estadisticas
